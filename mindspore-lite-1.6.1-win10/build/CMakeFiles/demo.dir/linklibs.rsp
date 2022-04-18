@@ -1,0 +1,1 @@
+  -L"D:/Code/hisicon/open-harmony_hisilicon/AI_Part_derek/mindspore-lite-1.6.1-win10/runtime/lib"  -lmindspore-lite -lpthread -lssp -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

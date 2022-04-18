@@ -1,0 +1,3 @@
+D:/Code/hisicon/open-harmony_hisilicon/AI_Part_derek/mindspore-lite-1.6.1-win10/build/CMakeFiles/demo.dir
+D:/Code/hisicon/open-harmony_hisilicon/AI_Part_derek/mindspore-lite-1.6.1-win10/build/CMakeFiles/edit_cache.dir
+D:/Code/hisicon/open-harmony_hisilicon/AI_Part_derek/mindspore-lite-1.6.1-win10/build/CMakeFiles/rebuild_cache.dir
